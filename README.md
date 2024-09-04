@@ -28,6 +28,7 @@ Este projeto é um scraper que coleta dados de empresas listadas nas categorias 
     ```bash
     pip install -r requirements.txt
 4. Execute o script:
+   ```bash
     python main.py
     
 ## Contato
